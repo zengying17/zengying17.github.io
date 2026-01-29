@@ -1,5 +1,3 @@
-# Research
-
 ## Working Papers
 
 **Estimation and Inference on Average Treatment Effect in Percentage Points
