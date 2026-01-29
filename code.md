@@ -1,4 +1,4 @@
-# Software
+# Code
 
 ## ate_pct (Stata & R)
 
@@ -9,3 +9,6 @@ percentage points under treatment effect heterogeneity.
 Stable version available from SSC:
 ```stata
 ssc install ate_pct
+```
+
+
