@@ -4,11 +4,7 @@ title: Ying Zeng
 ---
 
 **Ying Zeng**  
-Assistant Professor of Economics
-
-School of Economics and Wang Yanan Institute for Studies in Economics (WISE)
-
-Xiamen University
+I am an Assistant Professor in the School of Economics and the Wang Yanan Institute for Studies in Economics (WISE) at Xiamen University, China. 
 
 I work on econometrics, with interests in spatial econometrics, peer effects, and applied microeconometrics.
 
