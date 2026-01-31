@@ -1,3 +1,4 @@
+---
 layout: page
 title: Code
 permalink: /code/
@@ -28,10 +29,3 @@ ssc install ate_pct
 * **Latest version (GitHub):**
   [https://github.com/zengying17/ate_pct-r](https://github.com/zengying17/ate_pct-r)
   (includes example R scripts and datasets)
-
-```
-
-Notes:
-- I changed your R repo link from `ate_pct-R` to `ate_pct-r` to match the repo you’ve used elsewhere (`zengying17/ate_pct-r`). If your actual repo name is different, swap the URL.
-- If you want, I can add a short “Citation” block (one bibtex-style line) under the package description.
-```
