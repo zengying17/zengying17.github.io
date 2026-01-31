@@ -6,7 +6,7 @@ title: Ying Zeng
 **Ying Zeng**  
 Assistant Professor of Economics, Xiamen University (WISE)
 
-I work on econometrics, with interests in treatment-effect heterogeneity, log-linear models, and difference-in-differences.
+I work on econometrics, with interests in spatial econometrics, peer effects, and applied microeconometrics.
 
 - **Research:** {{ "/research/" | relative_url }}
 - **Teaching:** {{ "/teaching/" | relative_url }}
@@ -20,4 +20,4 @@ I work on econometrics, with interests in treatment-effect heterogeneity, log-li
 
 ## Contact
 
-(Email and office address can be added here.)
+**Email**: zengying17@gmail.com
