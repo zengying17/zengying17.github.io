@@ -16,8 +16,8 @@ I work on econometrics, with interests in spatial econometrics, peer effects, an
 
 ## Links
 
-- **XMU faculty page:** https://faculty.xmu.edu.cn/yingzeng/en/index.htm  
-- **Bilibili (teaching videos):** https://space.bilibili.com/2015836889
+- **XMU faculty page:** [[https://faculty.xmu.edu.cn/yingzeng/en/index.htm]](https://faculty.xmu.edu.cn/yingzeng/en/index.htm)
+- **Bilibili (teaching videos):** [[https://space.bilibili.com/2015836889]](https://space.bilibili.com/2015836889)
 
 ## Contact
 
