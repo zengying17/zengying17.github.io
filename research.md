@@ -1,6 +1,3 @@
-I’ll clean up the Markdown for readability and consistency (headings, lists, links, italics/bold), keeping your content the same but making it render nicely on GitHub Pages.
-
-
 ## Working Papers
 
 ### Estimation and Inference on Average Treatment Effect in Percentage Points under Heterogeneity  
