@@ -21,4 +21,4 @@ I work on econometrics, with interests in spatial econometrics, peer effects, an
 
 ## Contact
 
-**Email**: zengying17@gmail.com
+**Email**: zengying17[at]gmail.com
