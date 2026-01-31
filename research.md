@@ -1,4 +1,8 @@
-# Research
+---
+layout: page
+title: Research
+permalink: /research/
+---
 
 ## Working Papers 
 ### [1] Estimation and Inference on Average Treatment Effect in Percentage Points under Heterogeneity  
@@ -18,4 +22,3 @@ Joint with Guido M. Kuersteiner and Ingmar R. Prucha
 ## Publications
 
 - Kuersteiner, Guido M., Ingmar R. Prucha, and **Ying Zeng**. “Efficient Peer Effects Estimators with Group Effects.” *Journal of Econometrics* 235(2) (2023): 2155–2194. [[Journal link]](https://www.sciencedirect.com/science/article/pii/S030440762300129X)
-

@@ -1,4 +1,8 @@
-# Code
+---
+layout: page
+title: Code
+permalink: /code/
+---
 
 ## ate_pct (Stata & R)
 
@@ -10,5 +14,3 @@ Stable version available from SSC:
 ```stata
 ssc install ate_pct
 ```
-
-
