@@ -2,8 +2,7 @@
 
 ### Estimation and Inference on Average Treatment Effect in Percentage Points under Heterogeneity  
 Revise and resubmit, *Journal of Econometrics*
-- [[arXiv preprint]](https://arxiv.org/abs/2408.06624)
-- [[Stata package]](https://github.com/zengying17/ate_pct-stata) [[R package]](https://github.com/zengying17/ate_pct-r) [[Replication files]](https://github.com/zengying17/ate_pct-replication)
+[[arXiv preprint]](https://arxiv.org/abs/2408.06624) [[Stata package]](https://github.com/zengying17/ate_pct-stata) [[R package]](https://github.com/zengying17/ate_pct-r) [[Replication files]](https://github.com/zengying17/ate_pct-replication)
 
 
 ### Differential Test Performance and Peer Effects  
